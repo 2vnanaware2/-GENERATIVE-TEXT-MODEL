@@ -20,4 +20,5 @@ Train (or fine-tune) the model on a relevant dataset to enhance topic-specific g
 Generate text based on user-specified prompts or keywords.
 
 #output
+<img width="1262" height="322" alt="Image" src="https://github.com/user-attachments/assets/efe76fdb-1bae-4dfd-ad4c-f0b48577b46b" />
 
